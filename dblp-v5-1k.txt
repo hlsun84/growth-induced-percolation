@@ -1,0 +1,1000 @@
+1572278
+#*OQL[C++]: Extending C++ with an Object Query Capability.
+#@José A. Blakeley
+#year1995
+#confModern Database Systems
+#citation12
+#index0
+#arnetid2
+
+#*Transaction Management in Multidatabase Systems.
+#@Yuri Breitbart,Hector Garcia-Molina,Abraham Silberschatz
+#year1995
+#confModern Database Systems
+#citation16
+#index1
+#arnetid3
+
+#*Overview of the ADDS System.
+#@Yuri Breitbart,Tom C. Reyes
+#year1995
+#confModern Database Systems
+#citation0
+#index2
+#arnetid4
+
+#*Multimedia Information Systems: Issues and Approaches.
+#@Stavros Christodoulakis,Leonidas Koveos
+#year1995
+#confModern Database Systems
+#citation-1
+#index3
+#arnetid5
+
+#*Active Database Systems.
+#@Umeshwar Dayal,Eric N. Hanson,Jennifer Widom
+#year1995
+#confModern Database Systems
+#citation167
+#index4
+#arnetid6
+
+#*Where Object-Oriented DBMSs Should Do Better: A Critique Based on Early Experiences.
+#@Angelika Kotz Dittrich,Klaus R. Dittrich
+#year1995
+#confModern Database Systems
+#citation15
+#index5
+#arnetid7
+
+#*Distributed Databases.
+#@Hector Garcia-Molina,Meichun Hsu
+#year1995
+#confModern Database Systems
+#citation-1
+#index6
+#arnetid8
+
+#*An Object-Oriented DBMS War Story: Developing a Genome Mapping Database in C++.
+#@Nathan Goodman
+#year1995
+#confModern Database Systems
+#citation30
+#index7
+#arnetid9
+
+#*Cooperative Transactions for Multiuser Environments.
+#@Gail E. Kaiser
+#year1995
+#confModern Database Systems
+#citation32
+#index8
+#arnetid10
+
+#*Schema Architecture of the UniSQL/M Multidatabase System
+#@William Kelley,Sunit K. Gala,Won Kim,Tom C. Reyes,Bruce Graham
+#year1995
+#confModern Database Systems
+#citation39
+#index9
+#arnetid11
+
+#*Physical Object Management.
+#@Alfons Kemper,Guido Moerkotte
+#year1995
+#confModern Database Systems
+#citation13
+#index10
+#arnetid12
+
+#*Introduction to Part 1: Next-Generation Database Technology.
+#@Won Kim
+#year1995
+#confModern Database Systems
+#citation-1
+#index11
+#arnetid13
+
+#*Object-Oriented Database Systems: Promises, Reality, and Future.
+#@Won Kim
+#year1995
+#confModern Database Systems
+#citation97
+#index12
+#arnetid14
+
+#*Introduction to Part 2: Technology for Interoperating Legacy Databases.
+#@Won Kim
+#year1995
+#confModern Database Systems
+#citation4
+#index13
+#arnetid15
+
+#*On Resolving Schematic Heterogeneity in Multidatabase Systems.
+#@Won Kim,Injun Choi,Sunit K. Gala,Mark Scheevel
+#year1995
+#confModern Database Systems
+#citation261
+#index14
+#arnetid16
+
+#*Requirements for a Performance Benchmark for Object-Oriented Database Systems.
+#@Won Kim,Jorge F. Garza
+#year1995
+#confModern Database Systems
+#citation1
+#index15
+#arnetid17
+
+#*On View Support in Object-Oriented Databases Systems.
+#@Won Kim,William Kelley
+#year1995
+#confModern Database Systems
+#citation-1
+#index16
+#arnetid18
+
+#*The POSC Solution to Managing E&P Data.
+#@Vincent J. Kowalski
+#year1995
+#confModern Database Systems
+#citation2
+#index17
+#arnetid19
+
+#*C++ Bindings to an Object Database.
+#@David Krieger,Tim Andrews
+#year1995
+#confModern Database Systems
+#citation3
+#index18
+#arnetid20
+
+#*Authorization in Object-Oriented Databases.
+#@Teresa F. Lunt
+#year1995
+#confModern Database Systems
+#citation8
+#index19
+#arnetid21
+
+#*Query Processing in Multidatabase Systems.
+#@Weiyi Meng,Clement T. Yu
+#year1995
+#confModern Database Systems
+#citation42
+#index20
+#arnetid22
+
+#*Management of Uncerainty in database Systems.
+#@Amihai Motro
+#year1995
+#confModern Database Systems
+#citation-1
+#index21
+#arnetid23
+
+#*Parallel Relational Database Systems.
+#@Edward Omiecinski
+#year1995
+#confModern Database Systems
+#citation5
+#index22
+#arnetid24
+
+#*Query Processing in Object-Oriented Database Systems.
+#@M. Tamer Özsu,José A. Blakeley
+#year1995
+#confModern Database Systems
+#citation24
+#index23
+#arnetid25
+
+#*Specification and Execution of Transactional Workflows.
+#@Marek Rusinkiewicz,Amit P. Sheth
+#year1995
+#confModern Database Systems
+#citation278
+#index24
+#arnetid26
+
+#*Spatial Data Structures.
+#@Hanan Samet
+#year1995
+#confModern Database Systems
+#citation2743
+#index25
+#arnetid27
+#%165
+#!An overview is presented of the use of spatial data structures in spatial databases. The focus is on hierarchical data structures, including a number of variants of quadtrees, which sort the data with respect to the space occupied by it. Such techniques are known as spatial indexing methods. Hierarchical data structures are based on the principle of recursive decomposition. They are attractive because they are compact and depending on the nature of the data they save space as well as time and also facilitate operations such as search. Examples are given of the use of these data structures in the representation of different data types such as regions, points, rectangles, lines, and volumes.
+
+#*Spatial Data Models and Query Processing.
+#@Hanan Samet,Walid G. Aref
+#year1995
+#confModern Database Systems
+#citation73
+#index26
+#arnetid28
+
+#*Pegasus: A Heterogeneous Information Management System.
+#@Ming-Chien Shan,Rafi Ahmed,Jim Davis,Weimin Du,William Kent
+#year1995
+#confModern Database Systems
+#citation45
+#index27
+#arnetid29
+
+#*Temporal Object-Oriented Databases: A Critical Comparison.
+#@Richard T. Snodgrass
+#year1995
+#confModern Database Systems
+#citation104
+#index28
+#arnetid30
+
+#*The OMG Object Model.
+#@Richard Mark Soley,William Kent
+#year1995
+#confModern Database Systems
+#citation-1
+#index29
+#arnetid31
+
+#*EDA/SQL.
+#@Ralph L. Stout
+#year1995
+#confModern Database Systems
+#citation2
+#index30
+#arnetid32
+
+#*The Changing Database Standards Landscape.
+#@Craig W. Thompson
+#year1995
+#confModern Database Systems
+#citation2
+#index31
+#arnetid33
+
+#*Modern Database Systems: The Object Model, Interoperability, and Beyond.
+#@Won Kim
+#year1995
+#confModern Database Systems
+#citation375
+#index32
+#arnetid34
+
+#*Inequalities: Theory of Majorization and Its Application.
+#@Albert W. Marshall,Ingram Olkin
+#year1979
+#conf
+#citation-1
+#index33
+#arnetid35
+
+#*Version Control in an Object-Oriented Architecture.
+#@Anders Björnerstedt,Christer Hulten
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation85
+#index34
+#arnetid36
+
+#*The GemStone Data Management System.
+#@Robert Bretl,David Maier,Allen Otis,D. Jason Penney,Bruce Schuchardt,Jacob Stein,E. Harold Williams,Monty Williams
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation-1
+#index35
+#arnetid37
+
+#*Storage Management in EXODUS.
+#@Michael J. Carey,David J. DeWitt,Joel E. Richardson,Eugene J. Shekita
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation3
+#index36
+#arnetid38
+
+#*A Distributed Object Manager for the Smalltalk-80 System.
+#@Dominique Decouchant
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation10
+#index37
+#arnetid39
+
+#*Objects, Messages, and Rules in Database Design.
+#@Jim Diederich,Jack Milton
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation9
+#index38
+#arnetid40
+
+#*Active Objects: Ealities and Possibilities.
+#@Clarence A. Ellis,Simon J. Gibbs
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation21
+#index39
+#arnetid41
+
+#*Overview of the Iris DBMS.
+#@Daniel H. Fishman,Jurgen Annevelink,David Beech,E. C. Chow,Tim Connors,J. W. Davis,Waqar Hasan,C. G. Hoch,William Kent,S. Leichner,Peter Lyngbæk,Brom Mahbod,Marie-Anne Neimat,Tore Risch,Ming-Chien Shan,W. Kevin Wilkinson
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation-1
+#index40
+#arnetid42
+
+#*Features of the ORION Object-Oriented Database System.
+#@Won Kim,Nat Ballou,Hong-Tai Chou,Jorge F. Garza,Darrell Woelk
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation167
+#index41
+#arnetid43
+
+#*Indexing Techniques for Object-Oriented Databases.
+#@Won Kim,Kyung-Chang Kim,Alfred G. Dale
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation164
+#index42
+#arnetid44
+
+#*My Cat Is Object-Oriented.
+#@Roger King
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation51
+#index43
+#arnetid45
+
+#*Making Database Systems Fast Enough for CAD Applications.
+#@David Maier
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation52
+#index44
+#arnetid46
+
+#*Optimizing Smalltalk Message Performance.
+#@Fred Mellender,Steve Riegel,Andrew Straw
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation4
+#index45
+#arnetid47
+
+#*The Common List Object-Oriented Programming Language Standard.
+#@David A. Moon
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation0
+#index46
+#arnetid48
+
+#*Object Orientation as Catalyst for Language-Database Inegration.
+#@J. Eliot B. Moss
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation-1
+#index47
+#arnetid49
+
+#*A Survey of Object-Oriented Concepts.
+#@Oscar Nierstrasz
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation151
+#index48
+#arnetid50
+
+#*Integrated Office Systems.
+#@Oscar Nierstrasz,Dennis Tsichritzis
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation19
+#index49
+#arnetid51
+
+#*Proteus: A Frame-Based Nonmonotonic Inference System.
+#@David M. Russinoff
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation11
+#index50
+#arnetid52
+
+#*Concurrency Control and Object-Oriented Databases.
+#@Andrea H. Skarra,Stanley B. Zdonik
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation74
+#index51
+#arnetid53
+
+#*A Shared View of Sharing: The Treaty of Orlando.
+#@Lynn Andrea Stein,Henry Lieberman,David Ungar
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation-1
+#index52
+#arnetid54
+
+#*Pogo: A Declarative Representation System for Graphics.
+#@Mark A. Tarlton,P. Nong Tarlton
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation11
+#index53
+#arnetid55
+
+#*Concurrent Object-Oriented Programming Languages.
+#@Chris Tomlinson,Mark Scheevel
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation33
+#index54
+#arnetid56
+
+#*Directions in Object-Oriented Research.
+#@Dennis Tsichritzis,Oscar Nierstrasz
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation18
+#index55
+#arnetid57
+
+#*A Proposal for a Formal Model of Objects.
+#@Yair Wand
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation138
+#index56
+#arnetid58
+
+#*OZ+: An Object-Oriented Database System.
+#@Stephen P. Weiser,Frederick H. Lochovsky
+#year1989
+#confObject-Oriented Concepts, Databases, and Applications
+#citation19
+#index57
+#arnetid59
+
+#*The Commercial INGRES Epilogue.
+#@Lawrence A. Rowe,Michael Stonebraker
+#year1986
+#confThe INGRES Papers
+#citation10
+#index58
+#arnetid60
+
+#*Design of Relational Systems (Introduction to Section 1).
+#@Michael Stonebraker
+#year1986
+#confThe INGRES Papers
+#citation0
+#index59
+#arnetid61
+
+#*Supporting Studies on Relational Systems (Introduction to Section 2).
+#@Michael Stonebraker
+#year1986
+#confThe INGRES Papers
+#citation0
+#index60
+#arnetid62
+
+#*Distributed Database Systems (Introduction to Section 3).
+#@Michael Stonebraker
+#year1986
+#confThe INGRES Papers
+#citation0
+#index61
+#arnetid63
+
+#*The Design and Implementation of Distributed INGRES.
+#@Michael Stonebraker
+#year1986
+#confThe INGRES Papers
+#citation-1
+#index62
+#arnetid64
+
+#*User Interfaces for Database Systems (Introduction to Section 4).
+#@Michael Stonebraker
+#year1986
+#confThe INGRES Papers
+#citation0
+#index63
+#arnetid65
+
+#*Extended Semantics for the Relational Model (Introduction to Section 5).
+#@Michael Stonebraker
+#year1986
+#confThe INGRES Papers
+#citation0
+#index64
+#arnetid66
+
+#*Database Design (Introduction to Section 6).
+#@Michael Stonebraker
+#year1986
+#confThe INGRES Papers
+#citation0
+#index65
+#arnetid67
+
+#*Title, Preface, Contents.
+#@
+#year1986
+#confThe INGRES Papers
+#citation0
+#index66
+#arnetid68
+
+#*References.
+#@
+#year1986
+#confThe INGRES Papers
+#citation0
+#index67
+#arnetid69
+
+#*TeX: The Program
+#@Donald E. Knuth
+#year1986
+#conf
+#citation128
+#index68
+#arnetid70
+
+#*Foundations of Databases.
+#@Serge Abiteboul,Richard Hull,Victor Vianu
+#year1995
+#conf
+#citation2877
+#index69
+#arnetid71
+
+#*LaTeX: User's Guide & Reference Manual
+#@Leslie Lamport
+#year1986
+#conf
+#citation-1
+#index70
+#arnetid72
+
+#*The Design and Analysis of Computer Algorithms.
+#@Alfred V. Aho,John E. Hopcroft,Jeffrey D. Ullman
+#year1974
+#conf
+#citation-1
+#index71
+#arnetid73
+
+#*Specifying Systems, The TLA+ Language and Tools for Hardware and Software Engineers
+#@Leslie Lamport
+#year2002
+#conf
+#citation395
+#index72
+#arnetid74
+#!From the Book: This book will teach you how to write specifications of computer systems, using the language TLA+. It's rather long, but most people will read only Part I, which comprises the first 83 pages. That part contains all that most engineers need to know about writing specifications; it assumes only the basic background in computing and knowledge of mathematics expected of an undergraduate studying engineering or computer science. Part II contains more advanced material for more sophisticated readers. The remainder of the book is a reference manualPart III for the TLA+ tools and Part IV for the language itself. The TLA World Wide Web page contains material to accompany the book, including the TLA+ tools, exercises, references to the literature, and a list of corrections. There is a link to the TLA Web page on http://lamport.org.What Is a Specification?Writing is nature's way of letting you know how sloppy your thinking is.-GuindonA specification is a written description of what a system is supposed to do. Specifying a system helps us understand it. It's a good idea to understand a system before building it, so it's a good idea to write a specification of a system before implementing it.This book is about specifying the behavioral properties of a systemalso called its functional or logical properties. These are the properties that specify what the system is supposed to do. There are other important kinds of properties that we don't consider, including performance properties. Worst-case performance can often be expressed as a behavioral propertyforexample, Chapter 9 explains how to specify that a system must react within a certain length of time. However, specifying average performance is beyond the scope of the methods described here.Our basic tool for writing specifications is mathematics. Mathematics is nature's way of letting you know how sloppy your writing is. It's hard to be precise in an imprecise language like English or Chinese. In engineering, imprecision can lead to errors. To avoid errors, science and engineering have adopted mathematics as their language.The mathematics we use is more formal than the math you've grown up with. Formal mathematics is nature's way of letting you know how sloppy your mathematics is. The mathematics written by most mathematicians and scientists is not really precise. It's precise in the small, but imprecise in the large. Each equation is a precise assertion, but you have to read the accompanying words to understand how the equations relate to one another and exactly what the theorems mean. Logicians have developed ways of eliminating those words and making the mathematics completely formal, and hence completely precise.Most mathematicians and scientists think that formal mathematics, without words, is long and tiresome. They're wrong. Ordinary mathematics can be expressed compactly in a precise, completely formal language. It takes only about two dozen lines to define the solution to an arbitrary differential equation in the Differential Equations module of Chapter 11. But few specifications need such sophisticated mathematics. Most require only simple application of a few standard mathematical concepts.Why TLA+?We specify a system by describing its allowed behaviorswhat it may do in the course of an execution. In 1977, Amir Pnueli introduced the use of temporal logic for describing system behaviors. In principle, a system could be described by a single temporal logic formula. In practice, it couldn't. Pnueli's temporal logic was ideal for describing some properties of systems, but awkward for others. So, it was usually combined with a more traditional way of describing systems.In the late 1980s, I invented TLA, the Temporal Logic of Actionsa simple variant of Pnueli's original logic. TLA makes it practical to describe a system by a single formula. Most of a TLA specification consists of ordinary, nontemporal mathematics. Temporal logic plays a significant role only in describing those properties that it's good at describing. TLA also provides a nice way to formalize the style of reasoning about systems that has proved to be most effective in practicea style known as assertional reasoning. However, this book is about specification; it says almost nothing about proofs.Temporal logic assumes an underlying logic for expressing ordinary mathematics. There are many ways to formalize ordinary math. Most computer scientists prefer one that resembles their favorite programming language. I chose instead the one that most mathematicians preferthe one logicians call first-order logic and set theory.TLA provides a mathematical foundation for describing systems. To write specifications, we need a complete language built atop that foundation. I initially thought that this language should be some sort of abstract programming language whose semantics would be based on TLA. I didn't know what kind of programming language constructs would be best, so I decided to start writing specifications directly in TLA. I intended to introduce programming constructs as I needed them. To my surprise, I discovered that I didn't need them. What I needed was a robust language for writing mathematics.Although mathematicians have developed the science of writing formulas, they haven't turned that science into an engineering discipline. They have developed notations for mathematics in the small, but not for mathematics in the large. The specification of a real system can be dozens or even hundreds of pages long. Mathematicians know how to write 20-line formulas, not 20-page formulas. So, I had to introduce notations for writing long formulas. What I took from programming languages were ideas for modularizing large specifications.The language I came up with is called TLA+. I refined TLA+ in the course of writing specifications of disparate systems. But it has changed little in the last few years. I have found TLA+ to be quite good for specifying a wide class of systemsfrom program interfaces (APIs) to distributed systems. It can be used to write a precise, formal description of almost any sort of discrete system. It's especially well suited to describing asynchronous systemsthat is, systems with components that do not operate in strict lock-step.About This BookPart I, consisting of Chapters 1 through 7, is the core of the book and is meant to be read from beginning to end. It explains how to specify the class of properties known as safety properties. These properties, which can be specified with almost no temporal logic, are all that most engineers need to know about. After reading Part I, you can read as much of Part II as you like. Each of its chapters is independent of the others. Temporal logic comes to the fore in Chapter 8, where it is used to specify the additional class of properties known as liveness properties. Chapter 9 describes how to specify real-time properties, and Chapter 10 describes how to write specifications as compositions. Chapter 11 contains more advanced examples. The three chapters in Part III serve as the reference manual for three TLA+ tools: the Syntactic Analyzer, the TLATEX typesetting program, and the TLC model checker. If you want to use TLA+, then you probably want to use these tools. They are available from the TLA Web page. TLC is the most sophisticated of them. The examples on the Web can get you started using it, but you'll have to read Chapter 14 to learn to use TLC effectively.Part IV is a reference manual for the TLA+ language. Part I provides a good enough working knowledge of the language for most purposes. You need look at Part IV only if you have questions about the fine points of the syntax and semantics. Chapter 15 gives the syntax of TLA+. Chapter 16 describes the precise meanings and the general forms of all the built-in operators of TLA+; Chapter 17 describes the precise meaning of all the higher-level TLA+ constructs such as definitions. Together, these two chapters specify the semantics of the language. Chapter 18 describes the standard modulesexcept for module RealTime, described in Chapter 9, and module TLC, described in Chapter 14. You might want to look at this chapter if you're curious about how standard elementary mathematics can be formalized in TLA+.Part IV does have something you may want to refer to often: a mini-manual that compactly presents lots of useful information. Pages 268-273 list all TLA+ operators, all user-definable symbols, the precedence of all operators, all operators defined in the standard modules, and the ASCII representation of symbols.
+
+#*Data Structures and Algorithms.
+#@Alfred V. Aho,John E. Hopcroft,Jeffrey D. Ullman
+#year1983
+#conf
+#citation2536
+#index73
+#arnetid75
+
+#*Databases and Transaction Processing: An Application-Oriented Approach
+#@Philip M. Lewis,Arthur J. Bernstein,Michael Kifer
+#year2001
+#conf
+#citation113
+#index74
+#arnetid76
+
+#*The AWK Programming Language
+#@Alfred V. Aho,Brian W. Kernighan,Peter J. Weinberger
+#year1988
+#conf
+#citation551
+#index75
+#arnetid77
+
+#*The Java Virtual Machine Specification
+#@Tim Lindholm,Frank Yellin
+#year1997
+#conf
+#citation2
+#index76
+#arnetid78
+
+#*Compilers: Princiles, Techniques, and Tools.
+#@Alfred V. Aho,Ravi Sethi,Jeffrey D. Ullman
+#year1986
+#conf
+#citation-1
+#index77
+#arnetid79
+
+#*Algorithms
+#@Robert Sedgewick
+#year1983
+#conf
+#citation22
+#index78
+#arnetid80
+#!This presentation is a tutorial on AutoView, an AutoMod extension package that recreates model animation according to a user-defined script. AutoView allows users to restart animation and move back and forth in time and 3-D space. Animation is created using text files generated from an AutoMod simulation model. By creating a user-defined camera description file, animation can take place that allows for panning from one view to another, as well as for attaching the camera to a simulated load or vehicle and traveling with that entity during portions of the animation. The animation is provided at an enhanced response time because it does not have the logical and statistical processes of AutoMod (which can slow animation). This tutorial demonstrates several animation scripts previously constructed with AutoView, discusses the creation of AutoView files from AutoMod, and describes the development of a camera description file.
+
+#*The Java Programming Language
+#@Ken Arnold,James Gosling
+#year1996
+#conf
+#citation8
+#index79
+#arnetid81
+
+#*Algorithms, 2nd Edition
+#@Robert Sedgewick
+#year1988
+#conf
+#citation22
+#index80
+#arnetid82
+
+#*The Java Programming Language, Second Edition
+#@Ken Arnold,James Gosling
+#year1999
+#conf
+#citation-1
+#index81
+#arnetid83
+
+#*Operating System Concepts, 4th edition.
+#@Abraham Silberschatz,Peter Galvin
+#year1994
+#conf
+#citation-1
+#index82
+#arnetid84
+
+#*The Java Programming Language, Third Edition
+#@Ken Arnold,James Gosling,David Holmes
+#year2000
+#conf
+#citation-1
+#index83
+#arnetid85
+
+#*The TeXbook
+#@Donald E. Knuth
+#year1986
+#conf
+#citation1105
+#index84
+#arnetid86
+
+#*Modern Information Retrieval
+#@Ricardo A. Baeza-Yates,Berthier A. Ribeiro-Neto
+#year1999
+#conf
+#citation8062
+#index85
+#arnetid87
+#!:This is a rigorous and complete textbook for a first course on information retrieval from the computer science (as opposed to a user-centred) perspective. The advent of the Internet and the enormous increase in volume of electronically stored information generally has led to substantial work on IR from the computer science perspective - this book provides an up-to-date student oriented treatment of the subject.
+
+#*Conceptual Structures: Information Processing in Mind and Machine
+#@John F. Sowa
+#year1984
+#conf
+#citation3274
+#index86
+#arnetid88
+
+#*Concurrency Control and Recovery in Database Systems.
+#@Philip A. Bernstein,Vassos Hadzilacos,Nathan Goodman
+#year1987
+#conf
+#citation4304
+#index87
+#arnetid89
+
+#*Code Reading: The Open Source Perspective
+#@Diomidis Spinellis
+#year2003
+#conf
+#citation62
+#index88
+#arnetid90
+
+#*Intelligent Database Systems
+#@Elisa Bertino,Barbara Catania,Gian Piero Zarri
+#year2001
+#conf
+#citation78
+#index89
+#arnetid91
+#!:a valuable resource for anyone working on intelligent database systems. Good background coverage of both the field of databases and that of AI are provided in the first part of the book, and later there are some excellent analytical discussions of relevant projects. The authors adopt a very readable style which enables a complex topic to become much more accessible." - Jenny Carter, Department of Computer Science, De Montfort University This book provides a state of the art guide to the new developments in expert database systems, from the unique perspective of both the database and AI areas. It gives complete and detailed coverage of the latest research and practice, including all the need-to-know technical and theoretical approaches in the area. Drawing on their extensive experience, the authors evaluate how AI techniques can be integrated with present and future database systems and knowledge based management systems, incorporating AI expertise into system design. The book also addresses the techniques developed recently which are directly used, or are the basis, for data retrieval across the world wide web. If you are a designer or developer working in the database community, with database and AI products or applications, this book will help you to understand crucial research developments and to apply the results in practice. Includes: &middot; Mechanisms for handling data and knowledge including XML, web indexing, search engines & data mining &middot; Object Oriented Database Management Systems and object-relational DBMS &middot; Data modeling including techniques suchas Entity Relationship, Functional Data & Semantic Database models, as well as using the notations for modeling (OMT & UML) Plus! Extended case studies of commercial systems About the authors: Elisa Bertino is a well known expert in the integration of AI and database techniques, areas of O-O, distributed, deductive and multimedia databases and database security. She has chaired and given tutorials at many international conferences and published hundreds of journal papers and a book. Elisa is currently a professor of computer science at the University of Milan. Barbara Catania is an assistant professor of computer science at the University of Genova, specializing in deductive and multimedia databases, and indexing techniques in object-oriented and constraint databases. She has presented at a number of international conferences and co-authored a book. Gian Piero Zarri is an internationally renowned consultant and researcher in the areas of knowledge-based systems, natural-language processing, databases and information retrieval systems. He is on the editorial board of a number of international scientific journals and on the program committee of many conferences on Knowledge-Based Systems. Gian Piero currently works as Research Director for CNRS, the French National Centre for Scientific Research.
+
+#*How to Set Up and Maintain a World Wide Web Site: The Guide for Information Providers.
+#@Lincoln Stein
+#year1995
+#conf
+#citation30
+#index90
+#arnetid92
+
+#*Object-Oriented Database Systems
+#@Elisa Bertino,Lorenzo Martino
+#year1993
+#conf
+#citation-1
+#index91
+#arnetid93
+
+#*Advanced Programming in the UNIX Environment
+#@W. Richard Stevens
+#year1992
+#conf
+#citation10
+#index92
+#arnetid94
+
+#*PROLOG Programming for Artificial Intelligence, Second Edition
+#@Ivan Bratko
+#year1990
+#conf
+#citation-1
+#index93
+#arnetid95
+
+#*TCP/IP Illustrated, Volume 1: The Protocols
+#@W. Richard Stevens
+#year1994
+#conf
+#citation2
+#index94
+#arnetid96
+#!TCP/IP Illustrated, Volume 1 is a complete and detailed guide to the entire TCP/IP protocol suite - with an important difference from other books on the subject. Rather than just describing what the RFCs say the protocol suite should do, this unique book uses a popular diagnostic tool so you may actually watch the protocols in action.By forcing various conditions to occur - such as connection establishment, timeout and retransmission, and fragmentation - and then displaying the results, TCP/IP Illustrated gives you a much greater understanding of these concepts than words alone could provide. Whether you are new to TCP/IP or you have read other books on the subject, you will come away with an increased understanding of how and why TCP/IP works the way it does, as well as enhanced skill at developing aplications that run over TCP/IP.
+
+#*Database Security.
+#@Silvana Castano,Maria Grazia Fugini,Giancarlo Martella,Pierangela Samarati
+#year1995
+#conf
+#citation548
+#index95
+#arnetid97
+
+#*TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the UNIX Domain Protocolls
+#@W. Richard Stevens
+#year1996
+#conf
+#citation-1
+#index96
+#arnetid98
+
+#*Object Data Management: Object-Oriented and Extended Relational Database Systems
+#@R. G. G. Cattell
+#year1991
+#conf
+#citation297
+#index97
+#arnetid99
+
+#*Object Data Management: Object-Oriented and Extended Relational Database Systems (Revised Edition)
+#@R. G. G. Cattell
+#year1994
+#conf
+#citation-1
+#index98
+#arnetid100
+
+#*The C++ Programming Language, First Edition
+#@Bjarne Stroustrup
+#year1986
+#conf
+#citation-1
+#index99
+#arnetid101
+
+#*Designing Database Applications with Objects and Rules: The IDEA Methodology
+#@Stefano Ceri,Piero Fraternali
+#year1997
+#conf
+#citation136
+#index100
+#arnetid102
+
+#*The C++ Programming Language, Second Edition
+#@Bjarne Stroustrup
+#year1991
+#conf
+#citation-1
+#index101
+#arnetid103
+
+#*The Java Developers Almanac 1999
+#@Patrick Chan
+#year1999
+#conf
+#citation-1
+#index102
+#arnetid104
+
+#*Introduction to Data Mining
+#@Pang-Ning Tan,Michael Steinbach,Vipin Kumar
+#year2005
+#conf
+#citation1720
+#index103
+#arnetid105
+
+#*The Java Class Libraries - An Annotated Reference
+#@Patrick Chan,Rosanna Lee
+#year1997
+#conf
+#citation77
+#index104
+#arnetid106
+
+#*Datenmodelle, Datenbanksprachen und Datenbank-Management-Systeme
+#@Gottfried Vossen
+#year1990
+#conf
+#citation-1
+#index105
+#arnetid107
+
+#*The Java Class Libraries, Second Edition, Volume 2
+#@Patrick Chan,Rosanna Lee
+#year1998
+#conf
+#citation-1
+#index106
+#arnetid108
+
+#*Datenmodelle, Datenbanksprachen und Datenbank-Management-Systeme. 2. Auflage
+#@Gottfried Vossen
+#year1994
+#conf
+#citation-1
+#index107
+#arnetid109
+
+#*The Java Class Libraries, Second Edition, Volume 1
+#@Patrick Chan,Rosanna Lee,Douglas Kramer
+#year1998
+#conf
+#citation-1
+#index108
+#arnetid110
+
+#*Das DB2-Handbuch.
+#@Gottfried Vossen,Kurt-Ulrich Witt
+#year1990
+#conf
+#citation-1
+#index109
+#arnetid111
+
+#*The Java Class Libraries, Second Edition, Volume 1, Supplement for the Java 2 Platform Standard Edition, v1.2
+#@Patrick Chan,Rosanna Lee,Douglas Kramer
+#year1999
+#conf
+#citation-1
+#index110
+#arnetid112
+
+#*Time Series Prediction: Forecasting the Future and Understanding the Past.
+#@Andreas S. Weigend,Neil A. Gerschenfeld
+#year1994
+#conf
+#citation922
+#index111
+#arnetid113
+
+#*The Relational Model for Database Management, Version 2
+#@E. F. Codd
+#year1990
+#conf
+#citation532
+#index112
+#arnetid114
+#!From the Preface (See Front Matter for full Preface) An important adjunct to precision is a sound theoretical foundation. The relational model is solidly based on two parts of mathematics: firstorder predicate logic and the theory of relations. This book, however, does not dwell on the theoretical foundations, but rather on all the features of the relational model that I now perceive as important for database users, and therefore for DBMS vendors. My perceptions result from 20 years of practical experience in computing and data processing (chiefly, but not exclusively, with large-scale customers of IBM), followed by another 20 years of research. I believe that this is the first book to deal exclusively with the relational approach. It does, however, include design principles in Chapters 21 and 22. It is also the first book on the relational model by the originator of that model. All the ideas in the relational model described in this book are mine, except in cases where I explicitly credit someone else. In developing the relational model, I have tried to follow Einstein's advice, "Make it as simple as possible, but no simpler." I believe that in the last clause he was discouraging the pursuit of simplicity to the extent of distorting reality. So why does the book contain 30 chapters and two appendixes? To answer this question, it is necessary to look at the history of research and development of the relational model.
+
+#*Java Platform Performance - Strategies and Tactics
+#@Steve Wilson,Jeff Kesselman
+#year2000
+#conf
+#citation74
+#index113
+#arnetid115
+#!:This book addresses a vital issue for all those developing software for the Java™ platform: how to achieve maximum performance and scalability for their applications. Drawing on the authors' knowledge of the Java programming language and their extensive experience working on performance issues, the book reveals common mistakes and misconceptions concerning the performance characteristics of Java technologies. It offers overall development strategies and concrete, battle-tested techniques to dramatically improve the performance of applications constructed with the Java programming language. Java™ Platform Performance highlights the importance of integrating performance evaluation into the application development process and discusses measurement techniques. The book then presents practical tactics for enhancing application performance in the areas of I/O, RAM footprint, small object management, algorithms, data structures, Swing, and deployment. Specific topics covered include: Incorporating performance evaluation into the development process Profiling and benchmarking Building scalable, fast Swing GUIs Using high-speed I/O Computing and controlling the RAM footprint Reducing the number of classes Eliminating temporary objects Selecting high-performance algorithms and data structures Using Java native code and applet packaging efficiently Garbage collection Java HotSpot™ technology With an understanding of the performance issues and specific techniques for reducing overhead discussed in this book, you will have theinformation you need to enhance the efficiency, speed, and scalability of your software.
+
+#*Advanced C++: Programming Syles and Idioms
+#@James Coplien
+#year1992
+#conf
+#citation659
+#index114
+#arnetid116
+
+#*Deductive Databases and Logic Programming
+#@Subrata Kumar Das
+#year1992
+#conf
+#citation150
+#index115
+#arnetid117
+
+#*High performance compilers for parallel computing
+#@Michael Wolfe
+#year1996
+#conf
+#citation9
+#index116
+#arnetid118
+
+#*An Introduction to Database Systems
+#@C. J. Date
+#year1975
+#conf
+#citation17
+#index117
+#arnetid119
+#!:The sixth edition of this well-respected text/reference--which has been almost completely rewritten--continues to be the most comprehensive and up-to-date treatment of database technology currently available. Readers will gain a strong working knowledge of the overall structure, concepts, and objectives of database systems and will become familiar with the theoretical principles underlying the construction of such systems.
+
+#*TCP/IP Illustrated, Volume 2: The Implementation
+#@Gary R. Wright,W. Richard Stevens
+#year1995
+#conf
+#citation599
+#index118
+#arnetid120
+
+#*An Introduction to Database Systems, 2nd Edition
+#@C. J. Date
+#year1977
+#conf
+#citation17
+#index119
+#arnetid121
+
+#*Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology
+#@George Kingsley Zipf
+#year1949
+#conf
+#citation5748
+#index120
+#arnetid122
+
+#*An Introduction to Database Systems, 3rd Edition
+#@C. J. Date
+#year1981
+#conf
+#citation-1
+#index121
+#arnetid123
+#!:For over 25 years, C. J. Date's An Introduction to Database Systems has been the authoritative resource for readers interested in gaining insight into and understanding of the principles of database systems. This revision continues to provide a solid grounding in the foundations of database technology and to provide some ideas as to how the field is likely to develop in the future.. "Readers of this book will gain a strong working knowledge of the overall structure, concepts, and objectives of database systems and will become familiar with the theoretical principles underlying the construction of such systems.
+
+#*The INGRES Papers: Anatomy of a Relational Database System
+#@Michael Stonebraker
+#year1986
+#conf
+#citation67
+#index122
+#arnetid124
+
+#*An Introduction to Database Systems, Volume II.
+#@C. J. Date
+#year1983
+#conf
