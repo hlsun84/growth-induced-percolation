@@ -4,8 +4,8 @@ This project contains source codes and data sets from the paper "Growth-induced 
 #1. Source Codes:
 The source codes implemented in this project are not strictly along with equations, but with optimization from ER and SF networks.
 
-Generally speaking, there are five parts here, including directed ER and undirected ER networks, directed SF and undirected SF networks, as well as experimental study from hot streaks.
-Each part contaisn theoretical study and simulation on extremely large networks.
+Generally speaking, there are six parts here, including directed ER and undirected ER networks, directed SF and undirected SF networks,  experimental study from hot streaks as well as common functions.
+Each part contains theoretical study and simulation on extremely large networks.
 (1) directed ER networks: direc_ER_numerical.py, direc_ER_simulation.py.
 (2) undirected ER networks: un_ER_numerical.py, un_ER_simulation.py.
 (3) directed SF networks: direc_SF_numerical.py, direc_SF_simulation.py.
@@ -21,6 +21,6 @@ Each part contaisn theoretical study and simulation on extremely large networks.
 For any problems, please contact hlsun84@mail.ustc.edu.cn and we feel happy to give kind support to make your work better.
 
 #4.  Collaboration:
-We are open-minded to work with any person who really love percolation theory and applications in Complex Networks.
+We are open-minded to work with any person who really loves percolation theory and applications in Complex Networks.
 
 
