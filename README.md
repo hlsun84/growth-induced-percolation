@@ -17,10 +17,20 @@ Each part contains theoretical study and simulation on extremely large networks.
 (1) Implementation by Python 3.9 
 (2) Dependency: networkx, scipy, numpy, statistics, matplotlib, pandas and function_general.
 
-#3. Inquiry:
+#3. Data schema
+Journal name, author list, publication year, domain, citation number,h-index number, arnet-id.
+-#*Transaction Management in Multidatabase Systems.
+-#@Yuri Breitbart,Hector Garcia-Molina,Abraham Silberschatz
+-#year1995
+-#confModern Database Systems
+-#citation16
+-#index1
+-#arnetid3
+
+#4. Inquiry:
 For any problems, please contact hlsun84@mail.ustc.edu.cn and we feel happy to give kind support to make your work better.
 
-#4.  Collaboration:
+#5.  Collaboration:
 We are open-minded to work with any person who really loves percolation theory and applications in Complex Networks.
 
 
