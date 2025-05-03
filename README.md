@@ -18,7 +18,7 @@ Each part contains theoretical study and simulation on extremely large networks.
 (2) Dependency: networkx, scipy, numpy, statistics, matplotlib, pandas and function_general.
 
 #3. Data schema
-Journal name, author list, publication year, domain, citation number,h-index number, arnet-id.
+Notes:Journal name, author list, publication year, domain, citation number,h-index number, arnet-id.
 -#*Transaction Management in Multidatabase Systems.
 -#@Yuri Breitbart,Hector Garcia-Molina,Abraham Silberschatz
 -#year1995
@@ -26,6 +26,8 @@ Journal name, author list, publication year, domain, citation number,h-index num
 -#citation16
 -#index1
 -#arnetid3
+
+Due to the limitation of space, we merely upload a sample data file with 1000 lines. The whole data file is nearly 1GB downloaded from DBLP website.
 
 #4. Inquiry:
 For any problems, please contact hlsun84@mail.ustc.edu.cn and we feel happy to give kind support to make your work better.
