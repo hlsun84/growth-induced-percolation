@@ -1,5 +1,5 @@
 # growth-induced-percolation
-This project contains source codes and data sets from the paper "Growth induced percolation" by H.L. SUN, S.H. Chen, J.R. Xie and Y.Q.Hu.
+This project contains source codes and data sets from the paper "Growth-induced Percolation on Complex Networks" by H.L. SUN, S.H. Chen, J.R. Xie and Y.Q.Hu.
 
 #1. Source Codes:
 The source codes implemented in this project are not strictly along with equations, but with optimization from ER and SF networks.
